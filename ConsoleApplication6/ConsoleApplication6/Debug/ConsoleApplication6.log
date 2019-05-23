@@ -1,0 +1,19 @@
+﻿  ConsoleApplication6.cpp
+c:\users\administrator\source\repos\consoleapplication6\consoleapplication6\consoleapplication6.cpp(91): error C2511: „void CDruga::wypelnij_tablica(int,int)”: Przeciążona funkcja składowa nie została znaleziona w „CDruga”
+  c:\users\administrator\source\repos\consoleapplication6\consoleapplication6\consoleapplication6.cpp(58): note: zobacz deklarację „CDruga”
+c:\users\administrator\source\repos\consoleapplication6\consoleapplication6\consoleapplication6.cpp(92): error C2597: niedozwolone odwołanie do niestatycznej składowej „CDruga::czy_jest_tablica”
+c:\users\administrator\source\repos\consoleapplication6\consoleapplication6\consoleapplication6.cpp(92): error C3867: „CDruga::czy_jest_tablica”: niestandardowa składnia; użyj znaku „&”, aby utworzyć wskaźnik do składowej
+c:\users\administrator\source\repos\consoleapplication6\consoleapplication6\consoleapplication6.cpp(93): error C2597: niedozwolone odwołanie do niestatycznej składowej „CDruga::rozmiar”
+c:\users\administrator\source\repos\consoleapplication6\consoleapplication6\consoleapplication6.cpp(93): error C3867: „CDruga::rozmiar”: niestandardowa składnia; użyj znaku „&”, aby utworzyć wskaźnik do składowej
+c:\users\administrator\source\repos\consoleapplication6\consoleapplication6\consoleapplication6.cpp(93): error C2568: "<": nie można rozpoznać przeciążenia funkcji
+c:\users\administrator\source\repos\consoleapplication6\consoleapplication6\consoleapplication6.cpp(94): error C2597: niedozwolone odwołanie do niestatycznej składowej „CDruga::tab”
+c:\users\administrator\source\repos\consoleapplication6\consoleapplication6\consoleapplication6.cpp(94): error C3867: „CDruga::tab”: niestandardowa składnia; użyj znaku „&”, aby utworzyć wskaźnik do składowej
+c:\users\administrator\source\repos\consoleapplication6\consoleapplication6\consoleapplication6.cpp(94): error C2100: niedozwolony operator pośredni
+c:\users\administrator\source\repos\consoleapplication6\consoleapplication6\consoleapplication6.cpp(94): error C2660: "CPodstawowa::ustaw_dol": funkcja nie przyjmuje 0 argumentów
+  c:\users\administrator\source\repos\consoleapplication6\consoleapplication6\consoleapplication6.cpp(48): note: zobacz deklarację „CPodstawowa::ustaw_dol”
+c:\users\administrator\source\repos\consoleapplication6\consoleapplication6\consoleapplication6.cpp(94): error C2660: "CPodstawowa::ustaw_gora": funkcja nie przyjmuje 0 argumentów
+  c:\users\administrator\source\repos\consoleapplication6\consoleapplication6\consoleapplication6.cpp(52): note: zobacz deklarację „CPodstawowa::ustaw_gora”
+c:\users\administrator\source\repos\consoleapplication6\consoleapplication6\consoleapplication6.cpp(110): error C2143: błąd składniowy: brakuje „)” przed „;”
+c:\users\administrator\source\repos\consoleapplication6\consoleapplication6\consoleapplication6.cpp(110): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\administrator\source\repos\consoleapplication6\consoleapplication6\consoleapplication6.cpp(144): error C2660: "CDruga::wypelnij_tablica": funkcja nie przyjmuje 2 argumentów
+  c:\users\administrator\source\repos\consoleapplication6\consoleapplication6\consoleapplication6.cpp(64): note: zobacz deklarację „CDruga::wypelnij_tablica”

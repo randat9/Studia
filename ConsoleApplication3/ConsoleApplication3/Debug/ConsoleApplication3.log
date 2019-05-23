@@ -1,0 +1,4 @@
+﻿  ConsoleApplication3.cpp
+c:\users\administrator\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(27): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\administrator\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(29): warning C4101: "ptr": lokalna zmienna, do której nie istnieje odwołanie
+  ConsoleApplication3.vcxproj -> C:\Users\Administrator\source\repos\ConsoleApplication3\Debug\ConsoleApplication3.exe
